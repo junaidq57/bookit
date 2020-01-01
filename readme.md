@@ -45,10 +45,7 @@ Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and 
 ## Admin Credentials are here:
 - Super admin (development admin)
 
-    - 'email'    => "superadmin@ingic.com"
-    - 'password' => 'superadmin123'
-- Admin
-    - 'email'    => "admin@ingic.com"
+    - 'email'    => "superadmin@mothercare.com"
     - 'password' => 'admin123'
      
 ## update vendor file for swagger
