@@ -1,0 +1,23 @@
+Order Table:
+
+	longitude - varchar
+	latitude- varchar
+	status- varchar
+	Customer_id - int
+	customer_username - varchar
+	customer_email - varchar
+	customer_firstname - varchar
+	customer_lastname - varchar
+	shipping_amount - decimal
+	shipping_description - varchar
+	grand_total - decimal
+	subtotal - decimal
+	total_item_count - int
+	Facilitator_id - int
+
+Order Item Table:
+    item_description - varchar
+    weight - decimal
+    item_options - varchar	
+
+

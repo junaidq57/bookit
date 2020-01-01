@@ -1,0 +1,104 @@
+id,name,module_id,display_name,description,is_protected
+
+1,adminpanel,1,"Admin Panel","Admin Panel",1
+2,dashboard,2,Dashboard,Dashboard,1
+3,users.index,3,"List Users","List Roles",1
+4,users.create,3,"Create Users","Create Users",1
+5,users.show,3,"View User","View User",1
+6,users.edit,3,"Edit User","Edit User",1
+7,users.destroy,3,"Delete User","Delete User",1
+8,roles.index,4,"List Roles","List Roles",1
+9,roles.create,4,"Create Role","Create Role",1
+10,roles.show,4,"View Role","View Role",1
+11,roles.edit,4,"Edit Role","Edit Role",1
+12,roles.destroy,4,"Delete Role","Delete Role",1
+13,permissions.index,5,"List Permissions","List Permissions",1
+14,permissions.create,5,"Create Permission","Create Permission",1
+15,permissions.show,5,"View Permission","View Permission",1
+16,permissions.edit,5,"Edit Permission","Edit Permission",1
+17,permissions.destroy,5,"Delete Permission","Delete Permission",1
+18,modules.index,6,"List Modules","List Modules",1
+19,modules.create,6,"Create Module","Create Module",1
+20,modules.show,6,"View Module","View Module",1
+21,modules.edit,6,"Edit Module","Edit Module",1
+22,modules.destroy,6,"Delete Module","Delete Module",1
+23,languages.index,7,"List Languages","List Languages",1
+24,languages.create,7,"Create Languages","Create Languages",1
+25,languages.show,7,"View Languages","View Languages",1
+26,languages.edit,7,"Edit Languages","Edit Languages",1
+27,languages.destroy,7,"Delete Languages","Delete Languages",1
+28,pages.index,8,"List Pages","List Pages",1
+29,pages.create,8,"Create Pages","Create Pages",1
+30,pages.show,8,"View Pages","View Pages",1
+31,pages.edit,8,"Edit Pages","Edit Pages",1
+32,pages.destroy,8,"Delete Pages","Delete Pages",1
+33,contactus.index,9,"List Contact Us","List Contact Us Record",1
+34,contactus.create,9,"Create Contact Us","Create Contact Us Record",1
+35,contactus.show,9,"View Contact Us","View Contact Us Record",1
+36,contactus.edit,9,"Edit Contact Us","Edit Contact Us Record",1
+37,contactus.destroy,9,"Delete Contact Us","Delete Contact Us Record",1
+38,notifications.index,10,"List Notification","List Notification",1
+39,notifications.create,10,"Create Notification","Create Notification",1
+40,notifications.show,10,"View Notification","View Notification",1
+41,notifications.edit,10,"Edit Notification","Edit Notification",1
+42,notifications.destroy,10,"Delete Notification","Delete Notification",1
+43,menus.index,11,"List Menu","List Menu",1
+44,menus.create,11,"Create Menu","Create Menu",1
+45,menus.show,11,"View Menu","View Menu",1
+46,menus.edit,11,"Edit Menu","Edit Menu",1
+47,menus.destroy,11,"Delete Menu","Delete Menu",1
+48,settings.index,12,Settings,"Index Settings",0
+49,settings.create,12,Settings,"Create Settings",0
+50,settings.show,12,Settings,"Show Settings",0
+51,settings.edit,12,Settings,"Edit Settings",0
+52,settings.destroy,12,Settings,"Destroy Settings",0
+attendances.index,13,Attendances,"Index Attendances",0
+attendances.create,13,Attendances,"Create Attendances",0
+attendances.show,13,Attendances,"Show Attendances",0
+attendances.edit,13,Attendances,"Edit Attendances",0
+attendances.destroy,13,Attendances,"Destroy Attendances",0
+tasks.index,14,Tasks,"Index Tasks",0
+tasks.create,14,Tasks,"Create Tasks",0
+tasks.show,14,Tasks,"Show Tasks",0
+tasks.edit,14,Tasks,"Edit Tasks",0
+tasks.destroy,14,Tasks,"Destroy Tasks",0
+task-categories.index,15,"Task Categories","Index Task Categories",0
+task-categories.create,15,"Task Categories","Create Task Categories",0
+task-categories.show,15,"Task Categories","Show Task Categories",0
+task-categories.edit,15,"Task Categories","Edit Task Categories",0
+task-categories.destroy,15,"Task Categories","Destroy Task Categories",0
+taskcomments.index,16,Taskcomments,"Index Taskcomments",0
+taskcomments.create,16,Taskcomments,"Create Taskcomments",0
+taskcomments.show,16,Taskcomments,"Show Taskcomments",0
+taskcomments.edit,16,Taskcomments,"Edit Taskcomments",0
+taskcomments.destroy,16,Taskcomments,"Destroy Taskcomments",0
+orders.index,17,Orders,"Index Orders",0
+orders.create,17,Orders,"Create Orders",0
+orders.show,17,Orders,"Show Orders",0
+orders.edit,17,Orders,"Edit Orders",0
+orders.destroy,17,Orders,"Destroy Orders",0
+orderitems.index,18,Orderitems,"Index Orderitems",0
+orderitems.create,18,Orderitems,"Create Orderitems",0
+orderitems.show,18,Orderitems,"Show Orderitems",0
+orderitems.edit,18,Orderitems,"Edit Orderitems",0
+orderitems.destroy,18,Orderitems,"Destroy Orderitems",0
+quickorders.index,20,Quickorders,"Index Quickorders",0
+quickorders.create,20,Quickorders,"Create Quickorders",0
+quickorders.show,20,Quickorders,"Show Quickorders",0
+quickorders.edit,20,Quickorders,"Edit Quickorders",0
+quickorders.destroy,20,Quickorders,"Destroy Quickorders",0
+quickorderitems.index,21,Quickorderitems,"Index Quickorderitems",0
+quickorderitems.create,21,Quickorderitems,"Create Quickorderitems",0
+quickorderitems.show,21,Quickorderitems,"Show Quickorderitems",0
+quickorderitems.edit,21,Quickorderitems,"Edit Quickorderitems",0
+quickorderitems.destroy,21,Quickorderitems,"Destroy Quickorderitems",0
+facilitators.index,22,Facilitators,"Index Facilitators",0
+facilitators.create,22,Facilitators,"Create Facilitators",0
+facilitators.show,22,Facilitators,"Show Facilitators",0
+facilitators.edit,22,Facilitators,"Edit Facilitators",0
+facilitators.destroy,22,Facilitators,"Destroy Facilitators",0
+facilitator-tracks.index,23,"Facilitator Tracks","Index Facilitator Tracks",0
+facilitator-tracks.create,23,"Facilitator Tracks","Create Facilitator Tracks",0
+facilitator-tracks.show,23,"Facilitator Tracks","Show Facilitator Tracks",0
+facilitator-tracks.edit,23,"Facilitator Tracks","Edit Facilitator Tracks",0
+facilitator-tracks.destroy,23,"Facilitator Tracks","Destroy Facilitator Tracks",0
